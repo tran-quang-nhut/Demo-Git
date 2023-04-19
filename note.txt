@@ -12,4 +12,4 @@ B2: tạo ra commit để ghi chú lại sự thay đổi của code, chúng ta 
 B3: đẩy code từ local repo remote repo để lưu trữ, lần đầu sẽ lùng lệnh git push -u origin + tên nhánh , những lần sau chỉ cần dùng lệnh git push origin
 
 Các bước để tạo nhánh
-B1: Dùng lệnh git branch + tên nhánh , muốn kiểm
+B1: Dùng lệnh git branch + tên nhánh , muốn kiểm tra các nhánh đang có ở local ta dùng lệnh git branch, nếu muốn chuyển nhánh sẽ dùng lệnh git checkout + tên nhánh
