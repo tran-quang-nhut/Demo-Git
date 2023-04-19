@@ -6,3 +6,7 @@ cách kết nối Remote Repo với Local Repo lại với nhau: dùng lệnh fi
 các bước để đẩy code chúng ta lên Remote Repo
 B1: Sẽ đẩy các file có sự thay đổi lên staging area, dùng lệnh git add + tên file nếu muốn đẩy từng file, muốn đẩy tất cả thì dùng lệnh git add ., để kiểm tra sự thay đổi ta có thể dùng lệnh git status
 Muốn đảo ngược lại việc thêm các file có sự thay đổi lên staging  area dùng lệnh git reset
+
+B2: tạo ra commit để ghi chú lại sự thay đổi của code, chúng ta dùng lệnh git commit -m "lời nhắn" ,muốn kiểm tra các commit đang có ta dùng git log
+
+B3: đẩy code từ local repo remote repo để lưu trữ, lần đầu sẽ lùng lệnh git push -u origin + tên nhánh , những lần sau chỉ cần dùng lệnh git push origin
