@@ -10,3 +10,6 @@ Muốn đảo ngược lại việc thêm các file có sự thay đổi lên st
 B2: tạo ra commit để ghi chú lại sự thay đổi của code, chúng ta dùng lệnh git commit -m "lời nhắn" ,muốn kiểm tra các commit đang có ta dùng git log
 
 B3: đẩy code từ local repo remote repo để lưu trữ, lần đầu sẽ lùng lệnh git push -u origin + tên nhánh , những lần sau chỉ cần dùng lệnh git push origin
+
+Các bước để tạo nhánh
+B1: Dùng lệnh git branch + tên nhánh , muốn kiểm
