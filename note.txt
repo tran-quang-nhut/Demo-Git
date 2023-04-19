@@ -13,3 +13,5 @@ B3: đẩy code từ local repo remote repo để lưu trữ, lần đầu sẽ 
 
 Các bước để tạo nhánh
 B1: Dùng lệnh git branch + tên nhánh , muốn kiểm tra các nhánh đang có ở local ta dùng lệnh git branch, nếu muốn chuyển nhánh sẽ dùng lệnh git checkout + tên nhánh
+
+B2: sau khi tạo nhánh xong, ta sẽ dùng lệnh git add . ,git commit -m "message" , git push -u origin tên nhánh muốn public trên remote
